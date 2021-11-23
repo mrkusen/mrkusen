@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew Kusen, @mrkusen 
-- 👀 I’m interested in data science and demography. Passionate about using data to help dismtantle systems of opression.
+- 👀 I’m interested in data science and demography. Passionate about using data to help dismantle systems of opression.
 - 🌱 I’m currently learning R (focus on statistics and data visualisation).
 - 📫 How to reach me ... mrkusen@gmail.com or https://www.linkedin.com/in/mrkusen 
 
